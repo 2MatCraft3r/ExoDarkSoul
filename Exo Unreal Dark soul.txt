@@ -1,0 +1,26 @@
+Exo Unreal Dark soul : 
+
+Analyse : 
+
+-1 deplacement ,sprint ,   roulade, attaque legere , attaque lourde , parade , contre , barre d'endurance, dialogue, lancer des bombes, Commerces (achat equuipement)
+Different consommable, Arbre de competence , interaction avec le decor , systeme d'armure / arme different ( influ sur la mobilité ainsi que sur le style de combat )
+ 
+
+2- il s'agit d'un die and retry qui deviendra le premier jeu d'un nouveau genre les soul like ( jeu extrement difficil et punitif ou le but est de recommencer 
+pour apprendre par coeur les paternes ) 
+
+3- On retrouve la mecanique de contre ( ou de parade parfaite ).
+Pour se faire le joueur doit appuyer sur le bouton de parade au bon moment ( quand l'ennemis va frapper ) 
+Si c'est bon alors le joueur ne perd pas de vie ( par contre il perd de l'endurance ) puis il enchaine et contre attaquant infligeant des degat a l'ennemis 
+
+Vidéo : 
+
+1- Pour le youtubeur, mourir c'est apprendre. chaque mort permet de comprendre comment réussir et que la persévérance est la clé de la réussite. 
+Il explique aussi qu'il utilise cette mentalité dans la vie. 
+De mon coté, je partage son avis il est vrai que dans ce style de jeu il faut mourir pour réussir. Si on retransmet ca dans la vie c'est l'echec qui mene a la réussite.
+
+
+2- Lorsque l'on meurt on perd tout nos équipement, on devient un mort vivant qui ne peu plus réellement interagir avec les png.
+Nos runes peuvent être récupère sur le lieu de notre mort. On peut utilisé des humanité ( items lootable ) pour redevenir humain.
+
+
